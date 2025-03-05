@@ -1,0 +1,3 @@
+#!/bin/bash
+java -cp chess-engine-1.0-SNAPSHOT.jar cheekykoala.Main
+
